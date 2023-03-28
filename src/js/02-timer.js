@@ -88,3 +88,4 @@ function updateFaveClock({ days, hours, minutes, seconds }) {
   dataMinutes.textContent = `${minutes}`;
   dataSeconds.textContent = `${seconds}`;
 }
+// final 3
